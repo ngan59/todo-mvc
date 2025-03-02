@@ -1,7 +1,7 @@
 # TODO MVC Project 
 
 ## Setup
-- [ ] setup JDK-17
+- [ ] setup JDK-21
 - [ ] setup maven
 - [ ] open project with intelliJ
 - [ ] install chrome browser
