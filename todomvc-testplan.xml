@@ -1,0 +1,7 @@
+<suite name="todo-mvc">
+    <test name="chrome">
+        <classes>
+            <class name="testcases.ToDoMVCTest"/>
+        </classes>
+    </test>
+</suite>
